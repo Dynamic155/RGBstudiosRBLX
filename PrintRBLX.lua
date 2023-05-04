@@ -1,1 +1,1 @@
-local usernames = ("ThisNotXsploit"), ("Grim_Emporer")
+local usernames = {"ThisNotXsploit", "Grim_Emporer"}
