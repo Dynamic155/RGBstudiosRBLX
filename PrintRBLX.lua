@@ -1,1 +1,1 @@
-print("is workz")
+is workz
