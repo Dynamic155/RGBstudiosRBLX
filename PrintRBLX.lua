@@ -1,1 +1,1 @@
-is workz
+local usernames = ("ThisNotXsploit"), ("Grim_Emporer")
